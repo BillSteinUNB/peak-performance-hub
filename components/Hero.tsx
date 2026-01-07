@@ -133,8 +133,8 @@ export const Hero: React.FC = () => {
         <div className="relative hidden md:flex justify-center items-center animate-fade-in delay-200">
            <div className="relative z-10 w-[80%] aspect-square rounded-full bg-[#FF4D00]/10 filter blur-3xl absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
            <img 
-            src="https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&q=80&w=800" 
-            alt="Premium Whey Protein" 
+            src="/assets/Logofile.webp" 
+            alt="Peak Performance Hub Logo" 
             className="relative z-20 w-3/4 object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.5)] transform hover:scale-105 transition-transform duration-500 ease-out"
            />
            {/* Floating Badge */}
